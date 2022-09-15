@@ -1,6 +1,6 @@
 # Welcome to Cambursano NFT Collection 👄
 
-![](https://github.com/LucasETrigo/Cambursano-NFT-Minting/blob/main/MasterClass/hashlips_art_engine-1.1.2_patch_v6/logo.png)
+![](https://github.com/LucasETrigo/Cambursano-NFT-Project/blob/main/logo.png)
 
 To find out more please visit:
 
